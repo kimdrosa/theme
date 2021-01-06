@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "angular": "^1.6.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.7.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.0",
