@@ -17,7 +17,7 @@
     "webpack": "^2.2.1"
   },
   "dependencies": {
-    "angular": "^1.6.3",
+    "angular": "^1.8.3",
     "axios": "^0.19.2",
     "bluebird": "^3.7.2",
     "body-parser": "^1.17.2",
